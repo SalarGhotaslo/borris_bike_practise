@@ -6,6 +6,8 @@ Docking station
 verbs:
 working
 release
+return(dock)
+
 
 | Noun | Messages |
 | Person | nothing| 
